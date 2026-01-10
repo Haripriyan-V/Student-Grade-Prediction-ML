@@ -38,7 +38,8 @@ This project demonstrates the basic implementation of a machine learning
 classification model. Further improvements can be made by tuning hyperparameters
 and using advanced models.
 
-By:
+By:  
 Hari Priyan V  
 B.E CSE (AI & ML)
+
 
