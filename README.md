@@ -1,11 +1,11 @@
 STUDENT GRADE PREDICTION USING MACHINE LEARNING
 
-=> Project Overview
+=> Project Overview  
 This mini project predicts student grades based on academic and personal factors
 using machine learning techniques. It is developed as part of an academic mini
 project to understand the complete ML workflow.
 
-=> objective
+=> objective  
 To build a machine learning model that can predict student performance (grades)
 from given input features.
 
@@ -17,7 +17,7 @@ from given input features.
 - Scikit-learn
 - Matplotlib / Seaborn
 
-=> Dataset
+=> Dataset  
 The dataset contains student-related attributes such as study time, attendance,
 and previous scores.
 
@@ -30,10 +30,10 @@ and previous scores.
 6. Model training  
 7. Model evaluation  
 
-=> Model Evaluation
+=> Model Evaluation  
 The model is evaluated using accuracy score and classification report.
 
-=> Conclusion
+=> Conclusion  
 This project demonstrates the basic implementation of a machine learning
 classification model. Further improvements can be made by tuning hyperparameters
 and using advanced models.
@@ -41,3 +41,4 @@ and using advanced models.
 By:
 Hari Priyan V  
 B.E CSE (AI & ML)
+
