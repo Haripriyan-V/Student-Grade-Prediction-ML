@@ -1,4 +1,4 @@
-STUDENT GRADE PREDICTION USING MACHINE LEARNING
+STUDENT GRADE PREDICTION USING MACHINE LEARNING AND DATA SCIENCE
 
 => Project Overview  
 This mini project predicts student grades based on academic and personal factors
